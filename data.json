@@ -6,7 +6,7 @@
       "description": "Traditional coffee made with hot water and ground beans",
       "price": 9.90,
       "tags": ["tradicional"],
-      "image": "/src/assets/images/Type=Expresso.svg"
+      "image": "/assets/images/Type=Expresso.svg"
     },
     {
       "id": 1,
