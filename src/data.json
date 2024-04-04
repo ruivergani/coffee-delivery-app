@@ -30,7 +30,7 @@
       "description": "Half and half traditional espresso with steamed milk",
       "price": 9.90,
       "tags": ["tradicional", "with milk"],
-      "image": "/src/assets/images/Type=CafecomLeite.svg"
+      "image": "/images/Type=CafecomLeite.svg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "description": "A shot of espresso with double the milk and creamy foam",
       "price": 9.90,
       "tags": ["tradicional", "with milk"],
-      "image": "/src/assets/images/Type=Latte.png"
+      "image": "/images/Type=Latte.png"
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "description": "Cinnamon drink made from equal doses of coffee, milk and foam",
       "price": 9.90,
       "tags": ["tradicional", "with milk"],
-      "image": "/src/assets/images/Type=Capuccino.svg"
+      "image": "/images/Type=Capuccino.svg"
     },
     {
       "id": 6,
@@ -54,7 +54,7 @@
       "description": "Drink prepared with espresso and ice cubes",
       "price": 9.90,
       "tags": ["tradicional", "cold"],
-      "image": "/src/assets/images/Type=CafeGelado.svg"
+      "image": "/images/Type=CafeGelado.svg"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "description": "Espresso mixed with some hot milk and froth",
       "price": 9.90,
       "tags": ["tradicional", "cold"],
-      "image": "/src/assets/images/Type=Macchiato.svg"
+      "image": "/images/Type=Macchiato.svg"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "description": "Espresso with chocolate syrup, little milk and foam",
       "price": 9.90,
       "tags": ["tradicional", "with milk"],
-      "image": "/src/assets/images/Type=Mochaccino.svg"
+      "image": "/images/Type=Mochaccino.svg"
     },
     {
       "id": 9,
@@ -78,7 +78,7 @@
       "description": "Drink made with chocolate dissolved in hot milk and coffee",
       "price": 9.90,
       "tags": ["special", "with milk"],
-      "image": "/src/assets/images/Type=ChocolateQuente.svg"
+      "image": "/images/Type=ChocolateQuente.svg"
     },
     {
       "id": 10,
@@ -86,7 +86,7 @@
       "description": "Iced espresso drink with rum, cream and mint",
       "price": 9.90,
       "tags": ["special", "cold"],
-      "image": "/src/assets/images/Type=Cubano.svg"
+      "image": "/images/Type=Cubano.svg"
     },
     {
       "id": 11,
@@ -94,7 +94,7 @@
       "description": "Sweet drink prepared with coffee and coconut milk",
       "price": 9.90,
       "tags": ["special"],
-      "image": "/src/assets/images/Type=Havaiano.svg"
+      "image": "/images/Type=Havaiano.svg"
     },
     {
       "id": 12,
@@ -102,7 +102,7 @@
       "description": "Drink prepared with Arabic coffee beans and spices",
       "price": 9.90,
       "tags": ["special"],
-      "image": "/src/assets/images/Type=Arabe.svg"
+      "image": "/images/Type=Arabe.svg"
     }
   ]
 }
