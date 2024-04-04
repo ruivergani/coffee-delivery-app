@@ -74,7 +74,7 @@ ___
 Clone the project to the desired location on your computer.
 
 ```bash
-$ git clone git@github.com:ruivergani/coffee-delivery.git
+$ git clone git@github.com:ruivergani/coffee-delivery-app.git
 ```
 ___
 
@@ -82,7 +82,7 @@ ___
 ```bash
 
 # Navigate to the directory
-$ cd coffee-delivery
+$ cd coffee-delivery-app
 
 # Install the necessary dependencies
 $ yarn
