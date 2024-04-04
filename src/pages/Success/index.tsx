@@ -1,7 +1,7 @@
-import successIllustration from '../../assets/images/success-illustration.png';
-import iconLocation from '../../assets/images/icon_location.svg';
-import iconMoney from '../../assets/images/icon_money.svg';
-import iconTimer from '../../assets/images/icon_timer.svg';
+import successIllustration from '../../../public/images/success-illustration.png';
+import iconLocation from '../../../public/images/icon_location.svg';
+import iconMoney from '../../../public/images/icon_money.svg';
+import iconTimer from '../../../public/images/icon_timer.svg';
 import { SectionSuccess, SectionSuccessImage, SectionSuccessText } from './styles';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { OrderDataForm } from '../Cart';

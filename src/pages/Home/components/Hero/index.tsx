@@ -1,6 +1,6 @@
 // Images
 import { Coffee, Cube, ShoppingCart, Timer } from 'phosphor-react';
-import imageHero from '../../../../assets/images/coffee-hero.png';
+import imageHero from '../../../../../public/images/coffee-hero.png';
 import { SectionHero, SectionHeroText } from './styles';
 
 export function Hero() {

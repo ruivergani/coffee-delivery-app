@@ -6,7 +6,7 @@
       "description": "Traditional coffee made with hot water and ground beans",
       "price": 9.90,
       "tags": ["tradicional"],
-      "image": "/assets/images/Type=Expresso.svg"
+      "image": "/images/Type=Expresso.svg"
     },
     {
       "id": 1,
@@ -14,7 +14,7 @@
       "description": "Diluted espresso, less intense than traditional",
       "price": 9.90,
       "tags": ["tradicional"],
-      "image": "/assets/images/Type=Americano.svg"
+      "image": "/images/Type=Americano.svg"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "description": "Traditional espresso with creamy foam",
       "price": 8.90,
       "tags": ["tradicional"],
-      "image": "/assets/images/Type=ExpressoCremoso.svg"
+      "image": "/images/Type=ExpressoCremoso.svg"
     },
     {
       "id": 3,
