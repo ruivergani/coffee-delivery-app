@@ -4,7 +4,7 @@ import { QuantityInput } from '../Form/QuantityInput';
 import { useState } from 'react';
 import { useTheme } from 'styled-components';
 import { useCart } from '../../hooks/useCart';
-
+// Changes
 // Interface TypeScript
 export interface Coffee {
   id: number,
