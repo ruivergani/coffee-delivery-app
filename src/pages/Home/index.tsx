@@ -1,7 +1,7 @@
 import { Card } from "../../components/Card";
 import { Hero } from "./components/Hero";
 import { AllCoffee, ContentContainer } from "./styles";
-import {coffees} from '../../../data.json'; // import from data.json file
+import {coffees} from '../../data.json'; // import from data.json file
 
 export function Home(){
 
