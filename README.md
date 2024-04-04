@@ -29,7 +29,7 @@ ___
 The page in desktop format is seen in the image below:
 \
 \
-![Screenshot 2024-02-04 at 19 33 53](https://github.com/ruivergani/coffee-delivery/assets/70537459/b7b61912-6959-42e8-b7e3-4bd2ec92a5a0)
+![Screenshot 2024-04-04 at 10 50 19](https://github.com/ruivergani/coffee-delivery-app/assets/70537459/0edc99a0-b82e-4ed7-8a01-177b5e37a7fc)
 
 
 ___
